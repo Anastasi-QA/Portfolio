@@ -50,7 +50,7 @@ Being a junior software tester at Perfect Gym is my first professional position 
 * [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
 * [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
 * [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
-![image](https://github.com/user-attachments/assets/9c052ffc-1a91-41c2-af2a-3b728c1da49f)
+  
 
 **2. Generic Shop by TestArmy**
 * [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
