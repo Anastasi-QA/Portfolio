@@ -14,7 +14,9 @@ This portfolio shows my toolkit and my philosophy: QA isn't just about catching 
 ### My experience :office:
 My role as a game tester at Gameloft marks my first professional position in QA. 
 I have made a significant growth both in my tech and soft skills, such as strong analytical thinking, and developed several testing techniques in AUT testing that were under my responsibility, that resulted in rise of quality of final product and less amount of the Customer Care requests and issues. 
+
 I've worked on diverse projects, including Disney Dreamlight Valley, Disney Speedstorm, and Gangstar New York, specializing in game environments, narrative checks, and technical testing(collision, navmesh).
+
 My previous experience, although unrelated to the IT world, has allowed me to develop valuable skills that helped me provide better quality and clearer bug reports that helped with more swift and efficient fixes from the developer's side.
 
 ### Tools :wrench:
