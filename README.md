@@ -90,6 +90,38 @@ Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
 https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
 
 
+**[Furniture][Edit Mode] Vitalys Mines Lamp has corrupted highlights in Edit Mode**
+* Probability - Common
+* Severity - Medium
+* Reproduction Rate -5/5
+* Priority - Major
+
+Description :
+The highlight of Vitalys Mines Lamp does not match its model and has square highlights for VFX in Edit Mode.
+
+Note 1:This issue may become a blocker for players if any of the quest items fall into the unreachable area.
+
+Note 2: This issue is easier to reproduce by dropping the following items: Red Daisy, Garnet.
+
+Steps to Reproduce:
+1. * Install and launch the AUT.
+2. * Complete FTUE/Tutorial.
+3. * Obtain the Vitalys Mines Lamp by buying it in the Scrooge Store.
+4. * Place the Vitalys Mines Lamp on the grid in Edit Mode.
+5. * Open the Inventory and drop items one by one.
+6. * Highlight the Item.
+7. * Take a closer look at the highlight shape.
+8. * Notice that the Vitalys Mines Lamp has corrupted highlights in Edit Mode.
+
+For more information please check the attachments below.
+
+Attachments:
+![Pic_Vitalys Mines Lamp has corrupted highlights in Edit Mode](https://github.com/user-attachments/assets/45b07c4e-dc75-477d-80fa-0e1705ba591f)
+
+https://github.com/user-attachments/assets/8b0d0970-df22-4325-940e-fa00ba61bc69
+
+
+
 
 **[NPC Houses][Monster Incorporation]Camera has no collision with the staircase of the Mike's at Sulley's House**
 * Probability - Common
@@ -115,13 +147,4 @@ Attachments:
 ![Pic_The camera has no collision with the staircasestone balustrades of Mike's at Sulley's House](https://github.com/user-attachments/assets/437d7bc8-6e31-435f-8345-1fb6ba1a3aef)
 
 https://github.com/user-attachments/assets/ce054475-0a17-4c51-9be1-7aa8c437a293
-
-
-  
-
-**2. Generic Shop by TestArmy**
-* Probability - 
-* Severity -
-* Reproduction Rate -
-Description :
 
