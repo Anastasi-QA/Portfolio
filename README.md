@@ -82,8 +82,14 @@ Steps to Reproduce:
 7. * Notice that items may fall into the unreachable, hard to reach and hard to notice areas in Elsa's House.
 
 For more information please check the attachments below.
+
 Attachments:
 ![Pic_Items may fall into the unreachable areas in Elsa's Cave](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
+Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
+
+https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
+
+
 
 **[NPC Houses][Monster Incorporation]Camera has no collision with the staircase of the Mike's at Sulley's House**
 * Probability - Common
@@ -103,6 +109,7 @@ Steps to Reproduce:
 6. * Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
 
 For more information please check the attachments below.
+
 Attachments:
 
 ![Pic_The camera has no collision with the staircasestone balustrades of Mike's at Sulley's House](https://github.com/user-attachments/assets/437d7bc8-6e31-435f-8345-1fb6ba1a3aef)
