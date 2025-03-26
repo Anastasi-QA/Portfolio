@@ -90,6 +90,36 @@ Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
 https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
 
 
+**[Navmesh][Mulan Realm] Gap in navigation mesh is present in the Mulan Realm**
+* Probability - Common
+* Severity - Medium
+* Reproduction Rate -5/5
+* Priority - Major
+
+Description :
+There is an opportunity to reach behind the textures through the gap without collision in the Mulan Realm.
+
+Steps to Reproduce:
+1. * Install and launch the AUT.
+2. * Complete FTUE/Tutorial.
+3. * Unlock Mulan Realm and enter it.
+4. * Reach to location mentioned in the attachments.
+5. * Attempt to pass through the area.
+6. * Highlight the Item.
+7. * Take a closer look at the highlight shape.
+8. * Notice that there is an opportunity to reach inside the textures on the Mulan Realm.
+
+For more information please check the attachments below.
+
+Attachments:
+![Pic_Gap in navigation mesh is present in the Mulan Realm](https://github.com/user-attachments/assets/00bc76b5-4f03-44a4-9ff1-e159932209c8)
+
+
+https://github.com/user-attachments/assets/42c124e7-f5c1-47f6-a9f6-7e543a46a78b
+
+
+
+
 **[Furniture][Edit Mode] Vitalys Mines Lamp has corrupted highlights in Edit Mode**
 * Probability - Common
 * Severity - Medium
