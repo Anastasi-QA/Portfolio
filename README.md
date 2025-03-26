@@ -59,7 +59,33 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 
 ***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
 
-**Camera has no collision with the staircase of the Mike's at Sulley's House**
+**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**
+* Probability - Common
+* Severity - Walkthrough Break
+* Reproduction Rate -5/5
+* Priority - Blocker
+
+Description :
+Items may fall into the unreachable, hard to reach, hard to notice areas in Elsa's House.
+
+Note 1:This issue may become a blocker for players if any of the quest items fall into the unreachable area.
+
+Note 2: This issue is easier to reproduce by dropping the following items: Red Daisy, Garnet.
+
+Steps to Reproduce:
+1. * Install and launch the AUT.
+2. * Complete FTUE/Tutorial.
+3. * Unlock Elsa NPC Character.
+4. * Reach Elsa's Cave and enter it.
+5. * Open the Inventory and drop items one by one.
+6. * Try to pick up all the items.
+7. * Notice that items may fall into the unreachable, hard to reach and hard to notice areas in Elsa's House.
+
+For more information please check the attachments below.
+Attachments:
+![Pic_Items may fall into the unreachable areas in Elsa's Cave](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
+
+**[NPC Houses][Monster Incorporation]Camera has no collision with the staircase of the Mike's at Sulley's House**
 * Probability - Common
 * Severity - Minor
 * Reproduction Rate -5/5
