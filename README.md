@@ -56,16 +56,30 @@ My previous experience, although unrelated to the IT world, has allowed me to de
   
 
 ********### Samples of Bug reports :microscope:
-**1. Bug **
-* [Test plan](https://drive.google.com/file/d/1cRJdU6T6CtdcUbtz7Vtp08lzP7Up145y/view?usp=drive_link)
-* [Test cases](https://docs.google.com/document/d/1obBYg-6bmxsXW05WEku2Z7R_r_DquGhnboqCt_j0A9E/edit?usp=drive_link)
-* [Bug report](https://docs.google.com/spreadsheets/d/1N0UNluPKfuGABzAiERWwAnW2OD1mKbVmq3zWGuOAJ8Q/edit?usp=drive_link)
-* [Test report](https://drive.google.com/file/d/10nz_hn8osQ20P3n1tEWSlKMcgNqtJ_yB/view?usp=drive_link)
+***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
+
+**Camera has no collision with the staircase of the Mike's at Sulley's House**
+* Probability - 
+* Severity -
+* Reproduction Rate -
+Description :
+The camera has no collision with the staircase/stone balustrades of Mike's at Sulley's House.
+
+Steps to Reproduce:
+*Install and launch the AUT.
+*Complete FTUE.
+*Reach Step 15 of the "Eye on the Prize" Monster Incorporation Realm Request and place the Mike's and Sulley's *House in the Valley.
+*Reach Mike and Sulley's House.
+*Move the camera into the staircase of the House, as shown in the attachment.
+*Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
+
+For more information please check the attachments below.
+Attachments:
   
 
 **2. Generic Shop by TestArmy**
-* [Test plan](https://drive.google.com/file/d/14YT3LU42hfid7Ydq7eo5Dv2m8CQwgZNH/view?usp=drive_link)
-* [Scenario and test cases](https://docs.google.com/spreadsheets/d/1lCWVFviaHi4Q8tluyCWeMiH4a-cpWKqzjk7G3zJPfqA/edit?usp=sharing)
-* [Bug report](https://docs.google.com/spreadsheets/d/1Ztz3sgFs_pcBi3PXwAIu-MNxDDbJeHlPIpnPANpMmIA/edit?usp=sharing)
-* [Test report](https://drive.google.com/file/d/1pDDZ93CVt_WPvAae1AgnnMhsZjTb95iB/view?usp=drive_link)
+* Probability - 
+* Severity -
+* Reproduction Rate -
+Description :
 
