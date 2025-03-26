@@ -60,10 +60,12 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 ***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
 
 **Camera has no collision with the staircase of the Mike's at Sulley's House**
-* Probability - 
-* Severity -
-* Reproduction Rate -
-. Description :
+* Probability - Common
+* Severity - Minor
+* Reproduction Rate -5/5
+* Priority - Minor
+
+Description :
 The camera has no collision with the staircase/stone balustrades of Mike's at Sulley's House.
 
 Steps to Reproduce:
@@ -75,7 +77,8 @@ Steps to Reproduce:
 6. * Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
 
 For more information please check the attachments below.
-Attachments:
+Attachments:[Uploading Log_The camera has no collision with the staircasestone balustrades of Mike's at Sulley's House.log…]()
+
   
 
 **2. Generic Shop by TestArmy**
