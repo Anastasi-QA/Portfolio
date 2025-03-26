@@ -63,7 +63,7 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 * Probability - 
 * Severity -
 * Reproduction Rate -
-Description :
+. Description :
 The camera has no collision with the staircase/stone balustrades of Mike's at Sulley's House.
 
 Steps to Reproduce:
