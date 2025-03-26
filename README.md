@@ -67,11 +67,11 @@ The camera has no collision with the staircase/stone balustrades of Mike's at Su
 
 Steps to Reproduce:
 1. * Install and launch the AUT.
-* 2.Complete FTUE/Tutorial.
-* 3.Reach Step 15 of the "Eye on the Prize" Monster Incorporation Realm Request and place the Mike's and Sulley's *House in the Valley.
-* 4.Reach Mike and Sulley's House.
-* 5.Move the camera into the staircase of the House, as shown in the attachment.
-*6.Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
+2. * Complete FTUE/Tutorial.
+3. * Reach Step 15 of the "Eye on the Prize" Monster Incorporation Realm Request and place the Mike's and Sulley's *House in the Valley.
+4. * .Reach Mike and Sulley's House.
+5. * .Move the camera into the staircase of the House, as shown in the attachment.
+6. * Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
 
 For more information please check the attachments below.
 Attachments:
