@@ -1,7 +1,13 @@
 # Portfolio
 
 ********### About me :wave:
-Hi, my name is Anastasiia. Since the middle of 2023, I have been studying and practicing to become a QA. I am  happy to have finally found an area in which I can successfully develop myself. Since I am learning Polish Sign Language, the subject of accessibility is particularly important to me. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses, self-study and my job. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi, I'm Anastasiia. 
+
+For the past few years -since 2021- I've been building my skills and experience in the QA testing. I'm happy that I discovered a field where my love for problem-solving, attention to details, and gaming creates real impact.
+
+There is something special about knowing that your work helps to make user experience with technology/games/applications -smoother and more enjoyable. Through education, independent learning, and hands-on experience, I developed my ability to spot issues and improve digital products throughout different platforms.
+
+This portfolio shows my toolkit and my philosophy: QA isn't just about catching bugs and issues - it's about crafting experiences that people love. I'm committed to continuing to work on my growth and leveling up my skills in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/anastasiia-boiko-kalymon/)
 
