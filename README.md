@@ -1,9 +1,9 @@
 # Portfolio
 
-********### About me :wave:
+### About me :wave:
 Hi, I'm Anastasiia. 
 
-For the past few years -since 2021- I've been building my skills and experience in the QA testing. I'm happy that I discovered a field where my love for problem-solving, attention to details, and gaming creates real impact.
+For the past few years - since 2021 - I've been building my skills and experience in the QA testing. I'm happy that I discovered a field where my love for problem-solving, attention to details, and gaming creates real impact.
 
 There is something special about knowing that your work helps to make user experience with technology/games/applications -smoother and more enjoyable. Through education, independent learning, and hands-on experience, I developed my ability to spot issues and improve digital products throughout different platforms.
 
@@ -11,13 +11,15 @@ This portfolio shows my toolkit and my philosophy: QA isn't just about catching 
 
 [My Linkedin profile](https://www.linkedin.com/in/anastasiia-boiko-kalymon/)
 
-********### My experience :office:
-Being a junior software tester at Perfect Gym is my first professional position strictly in QA area. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking and developped some know-how in test automation. In addition, in my previous job, one of my responsibilities was to oversee the correct operation of the internal system and report any bugs or defects to the administrators. I have grown very fond of this role, which has also made me interested in the QA path. My previous experience, although unrelated to the IT world, has allowed me to develop valuable soft skills in particular.
+### My experience :office:
+My role as a game tester at Gameloft marks my first professional position in QA. I have made a significant growth both in my tech and soft skills, such as strong analytical thinking, and developed several testing techniques in AUT testing that were under my responsibility, that resulted in rise of quality of final product and less amount of the Customer Care requests and issues. 
+I've worked on diverse projects, including Disney Dreamlight Valley, Disney Speedstorm, and Gangstar New York, specializing in game environments, narrative checks, and technical testing(collision, navmesh).
+My previous experience, although unrelated to the IT world, has allowed me to develop valuable skills that helped me provide better quality and clearer bug reports that helped with more swift and efficient fixes from the developer's side.
 
 ### Tools :wrench:
 * [Jira](https://www.atlassian.com/pl/software/jira) - bug tracking
 * [Trello](https://trello.com/pl/tour) - project management
-* [Confluence](https://www.atlassian.com/software/confluence) - storing information and documents about the project , creating game testing documentations 
+* [Confluence](https://www.atlassian.com/software/confluence) - storing information and documents about the project, creating game testing documentations 
 * [Mattermost](https://mattermost.com/) - communication within the team
 * [Adobe Photoshop](https://www.adobe.com/ca/products/photoshop.html) - complex image attachments creation and editing
 * [Google Drive](https://www.google.com/intl/pl_pl/drive/) - storing data
