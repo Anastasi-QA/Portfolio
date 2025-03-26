@@ -77,7 +77,12 @@ Steps to Reproduce:
 6. * Notice that camera has no collision with the staircase/stone balustrades of the Mike's at Sulley's House.
 
 For more information please check the attachments below.
-Attachments:[Uploading Log_The camera has no collision with the staircasestone balustrades of Mike's at Sulley's House.log…]()
+Attachments:
+
+![Pic_The camera has no collision with the staircasestone balustrades of Mike's at Sulley's House](https://github.com/user-attachments/assets/437d7bc8-6e31-435f-8345-1fb6ba1a3aef)
+
+https://github.com/user-attachments/assets/ce054475-0a17-4c51-9be1-7aa8c437a293
+
 
   
 
