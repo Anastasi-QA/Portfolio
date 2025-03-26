@@ -218,4 +218,4 @@ Attachments:
 https://github.com/user-attachments/assets/ce054475-0a17-4c51-9be1-7aa8c437a293
 
 
-### Thank you so much for your attention !
+### Thank you for your attention!
