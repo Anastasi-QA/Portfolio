@@ -56,6 +56,7 @@ My previous experience, although unrelated to the IT world, has allowed me to de
   
 
 ********### Samples of Bug reports :microscope:
+
 ***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
 
 **Camera has no collision with the staircase of the Mike's at Sulley's House**
