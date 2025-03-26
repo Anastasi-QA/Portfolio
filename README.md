@@ -55,7 +55,7 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 * [General Data Protection Trainig](https://drive.google.com/file/d/1cnRUl_Ad_gm8y2YlExTIVlNiiIDwutKl/view?usp=sharing)
   
 
-********### Samples of Bug reports :microscope:
+******** Samples of Bug reports :microscope:
 
 ***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
 
