@@ -90,6 +90,45 @@ Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
 https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
 
 
+
+
+**[LOC][Premium Shop] "Figaro Bundle" name and description is unlocalized**
+* Probability - Common
+* Severity - Medium
+* Reproduction Rate -5/5
+* Priority - Major
+
+Description :
+"Figaro Bundle" and "A unique critter companion to join you on adventures" text strings are missing localization.
+
+Note that this issue occurs with the following languages:
+* Francais
+* Espanol
+* Deutsch
+* Italiano
+* Japanese
+* Chinese
+* Portuguese
+
+Steps to Reproduce:
+1. * Install and launch the AUT in the affected languages.
+2. * Complete FTUE/Tutorial.
+3. * Visit the Shop section
+4. * Check the 26.03.2025-02.03.2025 Premium Shop items rotation or set specific dates via cheats.
+5. * Scroll down the Shop page to reach "Figaro Bundle" items.
+6. * Open "Figaro Bundle" to check for more details.
+7. * Notice that the "Figaro Bundle" and "A unique critter companion to join you on adventures" text strings are missing localization.
+
+For more information please check the attachments below.
+
+Attachments:
+![Pic_Figaro Bundle name and description is unlocalized](https://github.com/user-attachments/assets/7ddd1209-3ee0-4f9d-98a6-53a49842333e)
+
+https://github.com/user-attachments/assets/8e1d3504-0fa2-462d-89e6-59e4b0e56b02
+
+
+
+
 **[Navmesh][Mulan Realm] Gap in navigation mesh is present in the Mulan Realm**
 * Probability - Common
 * Severity - Medium
