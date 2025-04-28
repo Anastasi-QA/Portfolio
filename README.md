@@ -57,7 +57,7 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 
 ### Samples of Bug reports :microscope:
 
-***Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract***
+****Note that all issues mentioned under are found on live build versions of the applications that is available for players without using any cheats to respect the NDA contract****
 
 **[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**
 * Probability - Common
