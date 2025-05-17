@@ -7,7 +7,8 @@ For the past few years - since 2021 - I've been building my skills and experienc
 
 There is something special about knowing that your work helps to make user experience with technology/games/applications -smoother and more enjoyable. Through education, independent learning, and hands-on experience, I developed my ability to spot issues and improve digital products throughout different platforms.
 
-This portfolio shows my toolkit and my philosophy: QA isn't just about catching bugs and issues - it's about crafting experiences that people love and raising the quality of the product to ensure that it hits a necessary quality standard before it is delivered to the customer. I'm committed to continuing to work on my growth and leveling up my skills in this field.
+This portfolio shows my toolkit and my philosophy: QA isn't just about catching bugs and issues - it's about crafting experiences that people love and raising the quality of the product to ensure that it hits a necessary quality standard before it is delivered to the customer. 
+I'm committed to continuing to work on my growth and leveling up my skills in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/anastasiia-boiko-kalymon/)
 
@@ -54,7 +55,8 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 * [Anti-Harassment and Discrimination Training](https://drive.google.com/file/d/1nVQtJee5huqeL1mIrpdJ5AQqeA7YUVYm/view?usp=sharing)
 * [General Data Protection Trainig](https://drive.google.com/file/d/1cnRUl_Ad_gm8y2YlExTIVlNiiIDwutKl/view?usp=sharing)
   
-## **Samples of Test Cases :mag:** 
+> [!IMPORTANT]
+> ## **Samples of Test Cases :mag:** 
 ### <ins>**Test Object: Environment**</ins> 
 
  <ins>**Objective: Make a full technical test coverage of the location and player's interaction with it**</ins>
@@ -104,9 +106,11 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 - the building can be entered(if applicable) or interacted with
 - correct UI appears and the user can perform the building-related activities, for details consult the GDD
 
-## **Samples of Bug reports :microscope:**
+> [!IMPORTANT]
+> ## **Samples of Bug reports :microscope:**
 
-### **Note that all issues mentioned under were found on live build versions of the applications that is available for players without using any cheats or developer builds to respect the NDA contract**
+> [!NOTE]
+> **Note that all issues mentioned under were found independently on live build versions of the applications that are available for players without using any cheats or developer builds to respect the NDA contract**
 
 ### <ins>**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**</ins>
 * Probability - Common
@@ -267,4 +271,5 @@ Attachments:
 https://github.com/user-attachments/assets/ce054475-0a17-4c51-9be1-7aa8c437a293
 
 
-### Thank you for your attention!
+
+## Thank you for your attention! :sparkling_heart:
