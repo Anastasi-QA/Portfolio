@@ -1,4 +1,4 @@
-# Portfolio
+# **Portfolio**
 
 ### About me :wave:
 Hi, I'm Anastasiia. 
@@ -7,7 +7,7 @@ For the past few years - since 2021 - I've been building my skills and experienc
 
 There is something special about knowing that your work helps to make user experience with technology/games/applications -smoother and more enjoyable. Through education, independent learning, and hands-on experience, I developed my ability to spot issues and improve digital products throughout different platforms.
 
-This portfolio shows my toolkit and my philosophy: QA isn't just about catching bugs and issues - it's about crafting experiences that people love. I'm committed to continuing to work on my growth and leveling up my skills in this field.
+This portfolio shows my toolkit and my philosophy: QA isn't just about catching bugs and issues - it's about crafting experiences that people love and raising the quality of the product to ensure that it hits a necessary quality standard before it is delivered to the customer. I'm committed to continuing to work on my growth and leveling up my skills in this field.
 
 [My Linkedin profile](https://www.linkedin.com/in/anastasiia-boiko-kalymon/)
 
@@ -54,12 +54,61 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 * [Anti-Harassment and Discrimination Training](https://drive.google.com/file/d/1nVQtJee5huqeL1mIrpdJ5AQqeA7YUVYm/view?usp=sharing)
 * [General Data Protection Trainig](https://drive.google.com/file/d/1cnRUl_Ad_gm8y2YlExTIVlNiiIDwutKl/view?usp=sharing)
   
+## **Samples of Test Cases :mag:** 
+### <ins>**Test Object: Environment**</ins> 
 
-### Samples of Bug reports :microscope:
+ <ins>**Objective: Make a full technical test coverage of the location and player's interaction with it**</ins>
+
+[Avatar Collision / Navigation mesh]:
+- make sure that there is no opportunity to reach inside the textures
+- avatar is not clipping with the textures more than is acceptable
+- no invisible colliders should be present on location
+- there is no unreachable part of navigation mesh where NPC may spawn and become unreachable for player
+
+[Camera collision]:
+- make sure that there is no opportunity to reach with camera inside the textures of environment location (floors, walls, ceilings)
+- make sure that smaller decorations become invisible upon camera collision to not obscure players view in the center
+- there is no invisible colliders present on location (invisible walls)
+
+[Item drop/Grid]:
+- items can be dropped in any visually accessible part of the area 
+- all items dropped on location can be reachable and can be interacted with 
+- fallen items lay on the floor or another designed height and don't show any strange behavior like: disappearing, dropping underground, flying into the air, etc
+- fallen items don't clip with the environment or other models
+
+[Natural User behavior]:
+- make sure that the avatar can not enter unreachable areas via Tools, Edit Mode, Camera Mode, NPCs, etc
+- make sure that the avatar can interact with expected/designed objects of the environment (water-fishing, benches/furniture-sitting animation, walls- climb(if applicable), ground can be dig(if applicable),
+
+[Additional]
+- while testing keep an eye on NPC and Mob spawn behavior - if it's present
+
+### <ins>**Test Object: Shop**</ins> 
+
+<ins>**Objective: Unlock/upgrade behavior and players interaction test**</ins>
+
+[Available conditions]:
+- the building can be built/restored during the respective requests 
+
+[Unlock]:
+- the user can build/restore the building (if applicable)
+- the unlock sequence/cutscene is played properly
+- currency/resources (if needed) is subtracted correctly
+
+[Upgrade]:
+- the buildings have several levels and can be upgraded
+- each and every level has its cost and currency/resources are subtracted correctly
+- every level has its benefits and are applied correctly, for details consult the Game Development Documentation (further "GDD")
+
+[User behavior and interaction with the building]:
+- the building can be entered(if applicable) or interacted with
+- correct UI appears and the user can perform the building-related activities, for details consult the GDD
+
+## **Samples of Bug reports :microscope:**
 
 ### **Note that all issues mentioned under were found on live build versions of the applications that is available for players without using any cheats or developer builds to respect the NDA contract**
 
-**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**
+### <ins>**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**</ins>
 * Probability - Common
 * Severity - Walkthrough Break
 * Reproduction Rate -5/5
@@ -92,7 +141,7 @@ https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
 
 
 
-**[LOC][Premium Shop] "Figaro Bundle" name and description is unlocalized**
+### <ins>**[LOC][Premium Shop] "Figaro Bundle" name and description is unlocalized**</ins>
 * Probability - Common
 * Severity - Medium
 * Reproduction Rate -5/5
@@ -129,7 +178,7 @@ https://github.com/user-attachments/assets/8e1d3504-0fa2-462d-89e6-59e4b0e56b02
 
 
 
-**[Navmesh][Mulan Realm] Gap in navigation mesh is present in the Mulan Realm**
+### <ins>**[Navmesh][Mulan Realm] Gap in navigation mesh is present in the Mulan Realm**</ins>
 * Probability - Common
 * Severity - Medium
 * Reproduction Rate -5/5
@@ -159,7 +208,7 @@ https://github.com/user-attachments/assets/42c124e7-f5c1-47f6-a9f6-7e543a46a78b
 
 
 
-**[Furniture][Edit Mode] Vitalys Mines Lamp has corrupted highlights in Edit Mode**
+### <ins>**[Furniture][Edit Mode] Vitalys Mines Lamp has corrupted highlights in Edit Mode**</ins>
 * Probability - Common
 * Severity - Medium
 * Reproduction Rate -5/5
@@ -192,7 +241,7 @@ https://github.com/user-attachments/assets/8b0d0970-df22-4325-940e-fa00ba61bc69
 
 
 
-**[NPC Houses][Monster Incorporation]Camera has no collision with the staircase of the Mike's at Sulley's House**
+### <ins>**[NPC Houses][Monster Incorporation]Camera has no collision with the staircase of the Mike's at Sulley's House**</ins>
 * Probability - Common
 * Severity - Minor
 * Reproduction Rate -5/5
