@@ -124,7 +124,9 @@ Description :
 AUT Softlocks/gets stuck if pressing "F" button in an attempt to open Edit Mode in the Main Village.
 
 Note 1:Edit Mode is a crucial function for the Disney Dreamlight Valley AUT, and softlock of it blocks progression to some quests and blocks completion of other challenges and use of some functions.
+
 Note 2:This issue does not occur in the Eternity Isle Expansion Village.
+
 Note 3:This issue was discovered/tested on the 1.20.2.42 version of the AUT. (Wishblossom Ranch Expansion update)
 
 Steps to Reproduce:
