@@ -112,23 +112,24 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 > [!NOTE]
 > ***Note that all issues mentioned under were found independently on live build versions of the applications that are available for players without using any cheats or developer builds to respect the NDA contract***
 
-### <ins>**[Fast Travel][Edit Mode] AUT gets stuck/freezes if opening Edit Mode right after fast travel**</ins>
+### <ins>**[Edit Mode] AUT Softlocks/gets stuck if opening Edit Mode in the Main game village**</ins>
 * Probability - Common
-* Severity - Major
+* Severity - Walkthrough Break
 * Reproduction Rate -5/5
-* Priority - Critical
+* Priority - Blocker
 
 Description :
-AUT gets stuck/freezes if pressing "F" button twice in a row in an attempt to open Edit Mode right after fast travel.
+AUT Softlocks/gets stuck if pressing "F" button in an attempt to open Edit Mode in the Main game village.
 
-Note 1:This issue can be reproduced with any fast travel to the Main village or any Expansion Village areas.
+Note 1:The Edit Mode function is cruttial for the Disney Dreamlight Walley AUT as it affects several core functions of the game and opportunity to coplete some quest steps.
+Note 2:This issue does not occur in the Ettenity Isle Expansion village.
+Note 3:This issue was discovered/tested on a 1.20.2.42 version of the AUT.(Wishblossom Ranch Expansion update)
 
 Steps to Reproduce:
 1. * Install and launch the AUT.
 2. * Complete FTUE/Tutorial.
-3. * Unlock any 2 Biomes to have the available fast travel Menu.
-4. * Open the Map Menu.
-5. * Use the fast travel Menu to teleport to any biome.
+3. * Press the "F" button in Attempt to 
+4. * 
 6. * While the avatar landing animation is still playing, press the "F" button twice in a row in an attempt to open Edit Mode.
 7. * Notice that AUT gets stuck/freezes if opening Edit Mode right after fast travel.
 
