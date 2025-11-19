@@ -135,10 +135,9 @@ Steps to Reproduce:
 For more information please check the attachments below.
 
 Attachments:
-![](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
-Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
+[Log_AUT gets stuck,freezes if opening Edit Mode right after fast travel.zip](https://github.com/user-attachments/files/23634070/Log_AUT.gets.stuck.freezes.if.opening.Edit.Mode.right.after.fast.travel.zip)
 
-https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
+https://github.com/user-attachments/assets/aa27cd7e-20ea-47ff-822c-4a5377d29f6e
 
 
 
