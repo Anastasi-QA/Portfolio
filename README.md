@@ -112,36 +112,6 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 > [!NOTE]
 > ***Note that all issues mentioned under were found independently on live build versions of the applications that are available for players without using any cheats or developer builds to respect the NDA contract***
 
-### <ins>**[Edit Mode] AUT Softlocks/gets stuck if opening Edit Mode in the Main game village**</ins>
-* Probability - Common
-* Severity - Walkthrough Break
-* Reproduction Rate -5/5
-* Priority - Blocker
-
-Description :
-AUT Softlocks/gets stuck if pressing "F" button in an attempt to open Edit Mode in the Main game village.
-
-Note 1:The Edit Mode function is cruttial for the Disney Dreamlight Walley AUT as it affects several core functions of the game and opportunity to coplete some quest steps.
-Note 2:This issue does not occur in the Ettenity Isle Expansion village.
-Note 3:This issue was discovered/tested on a 1.20.2.42 version of the AUT.(Wishblossom Ranch Expansion update)
-
-Steps to Reproduce:
-1. * Install and launch the AUT.
-2. * Complete FTUE/Tutorial.
-3. * Press the "F" button in Attempt to 
-4. * 
-6. * While the avatar landing animation is still playing, press the "F" button twice in a row in an attempt to open Edit Mode.
-7. * Notice that AUT gets stuck/freezes if opening Edit Mode right after fast travel.
-
-For more information please check the attachments below.
-
-Attachments:
-[Log_AUT gets stuck,freezes if opening Edit Mode right after fast travel.zip](https://github.com/user-attachments/files/23634070/Log_AUT.gets.stuck.freezes.if.opening.Edit.Mode.right.after.fast.travel.zip)
-
-https://github.com/user-attachments/assets/aa27cd7e-20ea-47ff-822c-4a5377d29f6e
-
-
-
 
 
 ### <ins>**[Edit Mode] AUT Softlocks/gets stuck if opening Edit Mode in the Main Village**</ins>
@@ -170,6 +140,40 @@ Attachments:
 [Log_AUT Softlocks,gets stuck if opening Edit Mode in the Main Village.zip](https://github.com/user-attachments/files/23634830/Log_AUT.Softlocks.gets.stuck.if.opening.Edit.Mode.in.the.Main.Village.zip)
 
 https://github.com/user-attachments/assets/758f6a64-ffc1-4af5-a406-234766a25e6a
+
+
+
+
+
+### <ins>**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**</ins>
+* Probability - Common
+* Severity - Walkthrough Break
+* Reproduction Rate -5/5
+* Priority - Blocker
+
+Description :
+Items may fall into the unreachable, hard to reach, hard to notice areas in Elsa's House.
+
+Note 1:This issue may become a blocker for players if any of the quest items fall into the unreachable area.
+
+Note 2: This issue is easier to reproduce by dropping the following items: Red Daisy, Garnet.
+
+Steps to Reproduce:
+1. * Install and launch the AUT.
+2. * Complete FTUE/Tutorial.
+3. * Unlock Elsa NPC Character.
+4. * Reach Elsa's Cave and enter it.
+5. * Open the Inventory and drop items one by one.
+6. * Try to pick up all the items.
+7. * Notice that items may fall into the unreachable, hard to reach and hard to notice areas in Elsa's House.
+
+For more information please check the attachments below.
+
+Attachments:
+![Pic_Items may fall into the unreachable areas in Elsa's Cave](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
+Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
+
+https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
 
 
 
