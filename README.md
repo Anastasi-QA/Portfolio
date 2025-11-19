@@ -143,35 +143,34 @@ https://github.com/user-attachments/assets/aa27cd7e-20ea-47ff-822c-4a5377d29f6e
 
 
 
-### <ins>**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**</ins>
+
+### <ins>**[Edit Mode] AUT Softlocks/gets stuck if opening Edit Mode in the Main Village**</ins>
 * Probability - Common
 * Severity - Walkthrough Break
 * Reproduction Rate -5/5
 * Priority - Blocker
 
 Description :
-Items may fall into the unreachable, hard to reach, hard to notice areas in Elsa's House.
+AUT Softlocks/gets stuck if pressing "F" button in an attempt to open Edit Mode in the Main Village.
 
-Note 1:This issue may become a blocker for players if any of the quest items fall into the unreachable area.
-
-Note 2: This issue is easier to reproduce by dropping the following items: Red Daisy, Garnet.
+Note 1:Edit Mode is a crucial function for the Disney Dreamlight Valley AUT, and softlock of it blocks progression to some quests and blocks completion of other challenges and use of some functions.
+Note 2:This issue does not occur in the Eternity Isle Expansion Village.
+Note 3:This issue was discovered/tested on the 1.20.2.42 version of the AUT. (Wishblossom Ranch Expansion update)
 
 Steps to Reproduce:
 1. * Install and launch the AUT.
 2. * Complete FTUE/Tutorial.
-3. * Unlock Elsa NPC Character.
-4. * Reach Elsa's Cave and enter it.
-5. * Open the Inventory and drop items one by one.
-6. * Try to pick up all the items.
-7. * Notice that items may fall into the unreachable, hard to reach and hard to notice areas in Elsa's House.
+3. * Get to the Main Game Village.
+4. * Press the "F" button in an attempt to open Edit Mode in the Main Village.
+5. * Notice that AUT Softlocks/gets stuck if opening Edit Mode in the Main Village.
 
-For more information please check the attachments below.
+For more information, please check the attachments below.
 
 Attachments:
-![Pic_Items may fall into the unreachable areas in Elsa's Cave](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
-Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
+[Log_AUT Softlocks,gets stuck if opening Edit Mode in the Main Village.zip](https://github.com/user-attachments/files/23634830/Log_AUT.Softlocks.gets.stuck.if.opening.Edit.Mode.in.the.Main.Village.zip)
 
-https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
+https://github.com/user-attachments/assets/758f6a64-ffc1-4af5-a406-234766a25e6a
+
 
 
 
