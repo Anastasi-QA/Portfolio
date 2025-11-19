@@ -110,7 +110,38 @@ My previous experience, although unrelated to the IT world, has allowed me to de
 > ## **Samples of Bug reports :microscope:**
 
 > [!NOTE]
-> **Note that all issues mentioned under were found independently on live build versions of the applications that are available for players without using any cheats or developer builds to respect the NDA contract**
+> ***Note that all issues mentioned under were found independently on live build versions of the applications that are available for players without using any cheats or developer builds to respect the NDA contract***
+
+### <ins>**[Fast Travel][Edit Mode] AUT gets stuck/freezes if opening Edit Mode right after fast travel**</ins>
+* Probability - Common
+* Severity - Major
+* Reproduction Rate -5/5
+* Priority - Critical
+
+Description :
+AUT gets stuck/freezes if pressing "F" button twice in a row in an attempt to open Edit Mode right after fast travel.
+
+Note 1:This issue can be reproduced with any fast travel to the Main village or any Expansion Village areas.
+
+Steps to Reproduce:
+1. * Install and launch the AUT.
+2. * Complete FTUE/Tutorial.
+3. * Unlock any 2 Biomes to have the available fast travel Menu.
+4. * Open the Map Menu.
+5. * Use the fast travel Menu to teleport to any biome.
+6. * While the avatar landing animation is still playing, press the "F" button twice in a row in an attempt to open Edit Mode.
+7. * Notice that AUT gets stuck/freezes if opening Edit Mode right after fast travel.
+
+For more information please check the attachments below.
+
+Attachments:
+![](https://github.com/user-attachments/assets/9f7f4b63-2d72-4722-a0c8-0cecd4fc252b)
+Note that Video Quality was reduced a lot to fit allowance in 10 Mb.
+
+https://github.com/user-attachments/assets/ab421c7b-c2f4-4ef4-84ec-bc0570e8cb91
+
+
+
 
 ### <ins>**[Unreachable item][NPC House] Items may fall into the unreachable areas in Elsa's Cave**</ins>
 * Probability - Common
